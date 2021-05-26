@@ -9,5 +9,5 @@ This is a change commit
 
 *italic Text*
 
-![Maxprit](/images/logo.png)
+![Maxprit](https://octodex.github.com/images/yaktocat.png)
 
