@@ -8,3 +8,6 @@ This is a change commit
 `hello`
 
 *italic Text*
+
+![Maxprit](/images/logo.png)
+
